@@ -204,4 +204,14 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# Power BI
+*.pbix.lock
+
+# Temp files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
 __marimo__/
